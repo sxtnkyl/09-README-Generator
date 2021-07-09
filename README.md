@@ -10,4 +10,4 @@ A README generator which uses command line prompts to create an organized layout
 
 Here is a video demo of the project's functionality:
 
-![Generate a readme](./homework-demo.mp4)
+![Generate a readme](./homework-demo.gif)

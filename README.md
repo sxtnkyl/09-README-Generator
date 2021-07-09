@@ -1,54 +1,13 @@
+# 09 Nodejs: README Generator
 
-  # asdf
+A README generator which uses command line prompts to create an organized layout for repeatable README documentation. This app will run in terminal and create or rewrite to the root directory. Utilized nodejs, inquirer, and async functions. Technical challenges include:
 
-  ## Description
-  
-  asdf
+- Promises
+- file system actions
+- command prompts
+- Markdown language
+- Recursion
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+Here is a video demo of the project's functionality:
 
-  ## Table of Contents
-
-  * [Installation](#installation)
-
-  * [Usage](#usage)
-
-  * [Contribute](#contribute)
-
-  * [Questions](#questions)
-  
-  ### Installation
-
-  Run this command to install necessary dependencies:
-
-  ```
-  npm i
-  ```
-  
-  ### Usage
-
-  
-  * lll
-  * aaa
-  * zzz
-
-  Then run the command below to create your readme:
-
-  ```
-  node index.js
-  ```
-
-  and this to test:
-
-  ```
-  npm test
-  ```
-
-  ### Contribute
-
-  fda
-  
-  ### Questions
-
-  Send questions to [fdas](https://github.com/fdas)
-  
+![Generate a readme](./homework-demo.mp4)

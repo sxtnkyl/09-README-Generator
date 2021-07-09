@@ -11,4 +11,5 @@ A README generator which uses command line prompts to create an organized layout
 Here is a video demo of the project's functionality:
 
 ![Generate a readme](./homework-demo.gif)
+
 https://github.com/sxtnkyl/09-README-Generator/blob/master/homework-demo.gif?raw=true
